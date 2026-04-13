@@ -138,3 +138,7 @@ dist
 # env
 .env
 .aider*
+
+# Python
+.venv/
+venv/
